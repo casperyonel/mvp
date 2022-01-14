@@ -22,4 +22,6 @@ Figma:
 https://www.figma.com/file/vEzsuqfNeoSgYdLId5SbEt/REIT-DAO?node-id=0%3A1
 
 DB Designer: 
-https://app.dbdesigner.net/designer/schema/490007
+https://app.dbdesigner.net/designer/schema/490007=
+
+.
