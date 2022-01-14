@@ -1,6 +1,17 @@
 Summary: I want to build a monopoly-themed website for a metaverse land investment dao. 
 The homepage will explain the business model and the IDO page will have a whitelist signup. 
 
+
+Pages:
+- Home (via clicking on logo)
+- Leaderboards
+- How To Play
+- Blog
+- Discord
+- IDO Whitelist
+
+
+
 Core features:
 - IDO Whitelist page with bonding pop out, user input address and added with info on pricing 
 - Above includes ranking system based on referrals
